@@ -3,7 +3,7 @@
   line-height: 1.5;
   font-weight: 400;
 
-  background-color: #242424;
+  background-color: #ffffff;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -20,7 +20,7 @@ body {
 #app {
   display: flex;
   justify-content: center;
-  align-content: center;
+  align-items: center;
   height: 100%;
   width: 100%;
 }
